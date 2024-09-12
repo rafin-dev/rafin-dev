@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @rafin-dev
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning More about emulators
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My first programming language was python, now I kinda hate it, LOL
